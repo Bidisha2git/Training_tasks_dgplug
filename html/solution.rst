@@ -1,12 +1,10 @@
 objective:
-
 =========
 
 To create a resume through html coding
 
 Code:
-
-=====
+====
 
 <!DOCTYPE html>
 
@@ -91,9 +89,8 @@ Code:
 
             </html>
 
-            Output Link:
-
-            ===========
+Output Link:
+===========
 
 http://htmlpaste.com/3c1145970cdc1ef674c5dc9be6d294dd56532d19
 
