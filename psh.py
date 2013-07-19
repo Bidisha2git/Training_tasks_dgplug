@@ -24,7 +24,7 @@ class Application(Cmd):
     
     def do_stockgoog(self,line):
     a = requests.get("http://download.finance.yahoo.com/d/quotes.csv?s=GOOG&f=l1"
-    value=link.text
+    value=a.text
     print value
 
 if __name__ == '__main__':
